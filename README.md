@@ -20,7 +20,7 @@ Python (pandas, numpy, json, etc.)
 SQL (PostgreSQL / SQLite snippets)
 
 
-🚀 Clone the repo: git clone https://github.com/your-username/data-wrangling-scripts.git
+🚀 Clone the repo: git clone https://github.com/your-username/data-tools.git
 cd data-wrangling-scripts
 
 🧩 Contributing
